@@ -9,4 +9,4 @@
 - Step 5 : Model training and validation : 15 epochs and defining loading, training and validation function.
 
 
-### You may download dataset from the website written inside the "Machine learning Project 1" pdf.
+### You may download dataset from the website provided inside the "Machine learning Project 1" pdf.
